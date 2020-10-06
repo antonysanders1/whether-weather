@@ -1,6 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Whether Whether
+This is a simpled weather app that displays realtime weather in each city.
+Search a city, know the weater condtions.
 
-## Available Scripts
+Will soon be expanded upon...
 
 In the project directory, you can run:
 
@@ -66,4 +68,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# whether-weather
+
